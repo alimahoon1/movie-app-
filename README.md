@@ -5,4 +5,5 @@ The search bar is fully functional and includes a debounce feature to prevent th
 The main page displays the top 20 movies sorted by rating. Each movie card shows its rating, language, and release year.
 
 deployed through vercel app
-search: ali-movie-app.vercel.com
+
+[ali-movie-app.vercel.com](https://ali-movie-app.vercel.app/)
